@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Downloads\\LinkedList\\LinkedList\\ArrayList\\Lists.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\homework\\LinkedList\\ArrayList\\Lists.csproj",
       "projectName": "Lists",
-      "projectPath": "C:\\Users\\User\\Downloads\\LinkedList\\LinkedList\\ArrayList\\Lists.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\homework\\LinkedList\\ArrayList\\Lists.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Downloads\\LinkedList\\LinkedList\\ArrayList\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\homework\\LinkedList\\ArrayList\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -175,20 +175,6 @@ namespace LinkedList.Tests
 
 
 
-        [TestCase(new int[] { 4, 3, 2, 1 })]
-        public void Reverse_Test1(int[] expected)
-        {
-            LinkedList list1 = new LinkedList();
-            list1.AddLast(1);
-            list1.AddLast(2);
-            list1.AddLast(3);
-            list1.AddLast(4);
-            list1.Reverse1();
-            int[] actual = list1.ToArray();
-            Assert.AreEqual(expected, actual);
-        }
-
-
 
 
         [TestCase(new int[] { 4, 3, 6 })]

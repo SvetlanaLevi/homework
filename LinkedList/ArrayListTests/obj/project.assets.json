@@ -5281,11 +5281,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Downloads\\LinkedList\\LinkedList\\ArrayListTests\\List.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\homework\\LinkedList\\ArrayListTests\\List.Tests.csproj",
       "projectName": "List.Tests",
-      "projectPath": "C:\\Users\\User\\Downloads\\LinkedList\\LinkedList\\ArrayListTests\\List.Tests.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\homework\\LinkedList\\ArrayListTests\\List.Tests.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Downloads\\LinkedList\\LinkedList\\ArrayListTests\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\homework\\LinkedList\\ArrayListTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5301,8 +5301,8 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "C:\\Users\\User\\Downloads\\LinkedList\\LinkedList\\ArrayList\\Lists.csproj": {
-              "projectPath": "C:\\Users\\User\\Downloads\\LinkedList\\LinkedList\\ArrayList\\Lists.csproj"
+            "C:\\Users\\User\\Desktop\\homework\\LinkedList\\ArrayList\\Lists.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\homework\\LinkedList\\ArrayList\\Lists.csproj"
             }
           }
         }
