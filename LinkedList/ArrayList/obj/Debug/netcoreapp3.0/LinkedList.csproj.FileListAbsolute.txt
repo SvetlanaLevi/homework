@@ -1,0 +1,33 @@
+C:\Users\Покемон\YandexDisk\C#\LinkedList (1)\LinkedList\ArrayList\obj\Debug\netcoreapp3.0\LinkedList.csprojAssemblyReference.cache
+C:\Users\Покемон\YandexDisk\C#\LinkedList (1)\LinkedList\ArrayList\obj\Debug\netcoreapp3.0\LinkedList.AssemblyInfoInputs.cache
+C:\Users\Покемон\YandexDisk\C#\LinkedList (1)\LinkedList\ArrayList\obj\Debug\netcoreapp3.0\LinkedList.AssemblyInfo.cs
+C:\Users\Покемон\YandexDisk\C#\LinkedList (1)\LinkedList\ArrayList\bin\Debug\netcoreapp3.0\LinkedList.exe
+C:\Users\Покемон\YandexDisk\C#\LinkedList (1)\LinkedList\ArrayList\bin\Debug\netcoreapp3.0\LinkedList.deps.json
+C:\Users\Покемон\YandexDisk\C#\LinkedList (1)\LinkedList\ArrayList\bin\Debug\netcoreapp3.0\LinkedList.runtimeconfig.json
+C:\Users\Покемон\YandexDisk\C#\LinkedList (1)\LinkedList\ArrayList\bin\Debug\netcoreapp3.0\LinkedList.runtimeconfig.dev.json
+C:\Users\Покемон\YandexDisk\C#\LinkedList (1)\LinkedList\ArrayList\bin\Debug\netcoreapp3.0\LinkedList.dll
+C:\Users\Покемон\YandexDisk\C#\LinkedList (1)\LinkedList\ArrayList\bin\Debug\netcoreapp3.0\LinkedList.pdb
+C:\Users\Покемон\YandexDisk\C#\LinkedList (1)\LinkedList\ArrayList\obj\Debug\netcoreapp3.0\LinkedList.dll
+C:\Users\Покемон\YandexDisk\C#\LinkedList (1)\LinkedList\ArrayList\obj\Debug\netcoreapp3.0\LinkedList.pdb
+C:\Users\User\Downloads\LinkedList (1)\LinkedList (1)\LinkedList\ArrayList\obj\Debug\netcoreapp3.0\LinkedList.csprojAssemblyReference.cache
+C:\Users\User\Downloads\LinkedList (1)\LinkedList (1)\LinkedList\ArrayList\obj\Debug\netcoreapp3.0\LinkedList.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\LinkedList (1)\LinkedList (1)\LinkedList\ArrayList\obj\Debug\netcoreapp3.0\LinkedList.AssemblyInfo.cs
+C:\Users\User\Downloads\LinkedList (1)\LinkedList (1)\LinkedList\ArrayList\obj\Debug\netcoreapp3.0\LinkedList.dll
+C:\Users\User\Downloads\LinkedList (1)\LinkedList (1)\LinkedList\ArrayList\obj\Debug\netcoreapp3.0\LinkedList.pdb
+C:\Users\User\Downloads\LinkedList (1)\LinkedList (1)\LinkedList\ArrayList\bin\Debug\netcoreapp3.0\LinkedList.exe
+C:\Users\User\Downloads\LinkedList (1)\LinkedList (1)\LinkedList\ArrayList\bin\Debug\netcoreapp3.0\LinkedList.deps.json
+C:\Users\User\Downloads\LinkedList (1)\LinkedList (1)\LinkedList\ArrayList\bin\Debug\netcoreapp3.0\LinkedList.runtimeconfig.json
+C:\Users\User\Downloads\LinkedList (1)\LinkedList (1)\LinkedList\ArrayList\bin\Debug\netcoreapp3.0\LinkedList.runtimeconfig.dev.json
+C:\Users\User\Downloads\LinkedList (1)\LinkedList (1)\LinkedList\ArrayList\bin\Debug\netcoreapp3.0\LinkedList.dll
+C:\Users\User\Downloads\LinkedList (1)\LinkedList (1)\LinkedList\ArrayList\bin\Debug\netcoreapp3.0\LinkedList.pdb
+C:\Users\User\Downloads\LinkedList\LinkedList\ArrayList\bin\Debug\netcoreapp3.0\LinkedList.exe
+C:\Users\User\Downloads\LinkedList\LinkedList\ArrayList\bin\Debug\netcoreapp3.0\LinkedList.deps.json
+C:\Users\User\Downloads\LinkedList\LinkedList\ArrayList\bin\Debug\netcoreapp3.0\LinkedList.runtimeconfig.json
+C:\Users\User\Downloads\LinkedList\LinkedList\ArrayList\bin\Debug\netcoreapp3.0\LinkedList.runtimeconfig.dev.json
+C:\Users\User\Downloads\LinkedList\LinkedList\ArrayList\bin\Debug\netcoreapp3.0\LinkedList.dll
+C:\Users\User\Downloads\LinkedList\LinkedList\ArrayList\bin\Debug\netcoreapp3.0\LinkedList.pdb
+C:\Users\User\Downloads\LinkedList\LinkedList\ArrayList\obj\Debug\netcoreapp3.0\LinkedList.csprojAssemblyReference.cache
+C:\Users\User\Downloads\LinkedList\LinkedList\ArrayList\obj\Debug\netcoreapp3.0\LinkedList.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\LinkedList\LinkedList\ArrayList\obj\Debug\netcoreapp3.0\LinkedList.AssemblyInfo.cs
+C:\Users\User\Downloads\LinkedList\LinkedList\ArrayList\obj\Debug\netcoreapp3.0\LinkedList.dll
+C:\Users\User\Downloads\LinkedList\LinkedList\ArrayList\obj\Debug\netcoreapp3.0\LinkedList.pdb
