@@ -1,0 +1,11 @@
+C:\Users\Покемон\Desktop\homework\LinkedList\Cinema\bin\Debug\netcoreapp3.1\Cinema.exe
+C:\Users\Покемон\Desktop\homework\LinkedList\Cinema\bin\Debug\netcoreapp3.1\Cinema.deps.json
+C:\Users\Покемон\Desktop\homework\LinkedList\Cinema\bin\Debug\netcoreapp3.1\Cinema.runtimeconfig.json
+C:\Users\Покемон\Desktop\homework\LinkedList\Cinema\bin\Debug\netcoreapp3.1\Cinema.runtimeconfig.dev.json
+C:\Users\Покемон\Desktop\homework\LinkedList\Cinema\bin\Debug\netcoreapp3.1\Cinema.dll
+C:\Users\Покемон\Desktop\homework\LinkedList\Cinema\bin\Debug\netcoreapp3.1\Cinema.pdb
+C:\Users\Покемон\Desktop\homework\LinkedList\Cinema\obj\Debug\netcoreapp3.1\Cinema.csprojAssemblyReference.cache
+C:\Users\Покемон\Desktop\homework\LinkedList\Cinema\obj\Debug\netcoreapp3.1\Cinema.AssemblyInfoInputs.cache
+C:\Users\Покемон\Desktop\homework\LinkedList\Cinema\obj\Debug\netcoreapp3.1\Cinema.AssemblyInfo.cs
+C:\Users\Покемон\Desktop\homework\LinkedList\Cinema\obj\Debug\netcoreapp3.1\Cinema.dll
+C:\Users\Покемон\Desktop\homework\LinkedList\Cinema\obj\Debug\netcoreapp3.1\Cinema.pdb
